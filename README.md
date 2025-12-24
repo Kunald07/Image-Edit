@@ -43,6 +43,3 @@ This project allows users to upload an image, apply real-time filters, use prese
 
 ---
 
-## How it Looks
-
-<img src="./image.png" alt="demo" />
